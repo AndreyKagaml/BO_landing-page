@@ -1,10 +1,10 @@
-# 🔊 Bang & Olufsen Landing Page
+# Bang & Olufsen Landing Page
 
 A modern, fully responsive landing page inspired by **Bang & Olufsen**, a premium audio and home entertainment brand. The website showcases the brand's products, highlights key product categories, and presents its design philosophy through a clean and elegant user interface.
 
 ---
 
-## 🚀 Live Preview
+## Live Preview
 
 Experience the live website:
 
@@ -12,7 +12,7 @@ Experience the live website:
 
 ---
 
-## 🎨 Design Reference
+## Design Reference
 
 This project is implemented based on the following design specification:
 
@@ -20,7 +20,7 @@ https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=681
 
 ---
 
-## 💻 Technologies Used
+## Technologies Used
 
 The project is built using modern front-end technologies and development tools:
 
@@ -31,7 +31,7 @@ The project is built using modern front-end technologies and development tools:
 
 ---
 
-## ✨ Features
+## Features
 
 - **Responsive Design:** Adaptive layout optimized for mobile, tablet and desktop screens.
 - **Hero Section:** Eye-catching introductory section showcasing the brand's identity.
@@ -42,7 +42,7 @@ The project is built using modern front-end technologies and development tools:
 
 ---
 
-## 🏗️ Getting Started
+## Getting Started
 
 Follow these instructions to run the project locally.
 
@@ -85,7 +85,7 @@ yarn start
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Andrii Kahamlyk**
 
