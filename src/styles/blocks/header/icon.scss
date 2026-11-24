@@ -15,27 +15,7 @@
     position: relative;
     background-image: url(../images/icons/icon-phone-call.svg);
 
-    &::before {
-      content: "+1 234 5555-55-55";
-
-      position: absolute;
-      top: 50%;
-      right: 40px;
-      transform: translateY(-50%);
-
-      font-size: 14px;
-      font-weight: 700;
-      color: #1B2129;
-      white-space: nowrap;
-
-      visibility: hidden;
-      opacity: 0;
-
-      transition: opacity 0.2s ease;
-    }
-
-    &:hover::before {
-      visibility: visible;
+    &:hover .phone-number {
       opacity: 1;
     }
   }
@@ -51,4 +31,21 @@
   &--close {
     background-image: url(../images/icons/icon-close-3x.png);
   }
+}
+
+.phone-number {
+  display: inline-block;
+  position: absolute;
+  top: 0%;
+  transform: translate(-100%, 20%);
+  padding-right: 30%;
+
+  font-size: 14px;
+  font-weight: 700;
+  color: #1B2129;
+  white-space: nowrap;
+
+  opacity: 0;
+
+  transition: opacity 0.2s ease;
 }
