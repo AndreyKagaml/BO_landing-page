@@ -63,7 +63,7 @@ Install all required packages:
 npm install
 ```
 
-### 3. Run the project locally
+### 3\. Run the project locally
 
 Install all required packages:
 
@@ -73,7 +73,7 @@ npm install
 yarn install
 ```
 
-### 3\. Run the project locally
+### 4\. Run the project locally
 
 Start the local development server:
 
